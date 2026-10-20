@@ -177,6 +177,8 @@ public partial class Form1 : Form
 
 
      // Toolbar button event handlers
+
+     // Colour picker
       private void ColorButton_Click(object sender, EventArgs e)
         {
             using (var dialog = new ColorDialog())
@@ -192,13 +194,17 @@ public partial class Form1 : Form
             }
         }
 
+
+        // Eraser 
         private void EraserButton_Click(object sender, EventArgs e)
         {
             _isEraserMode = !_isEraserMode;
             _eraserButton.BackColor = _isEraserMode ? Color.LightCoral : Color.White;
             UpdateStatus();
         }
+         
 
+         // Clear the canvas
         private void ClearButton_Click(object sender, EventArgs e)
         {
             var confirm = MessageBox.Show(
@@ -212,6 +218,8 @@ public partial class Form1 : Form
             }
         }
 
+
+         // saving canvas to machine
         private void SaveButton_Click(object sender, EventArgs e)
         {
             using (var dialog = new SaveFileDialog())
@@ -244,6 +252,8 @@ public partial class Form1 : Form
             }
         }
 
+
+        // loading canvas from machine (when saved previously)
         private void LoadButton_Click(object sender, EventArgs e)
         {
             using (var dialog = new OpenFileDialog())
@@ -277,8 +287,8 @@ public partial class Form1 : Form
             }
         }
 
-    
-    // Mouse event handlers
+
+        // Mouse event handlers
 
      private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
