@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsDraw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b03dfd5964212e2c1fce269f5a83a331c611a8be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6793ac8e878aa66751d8cfdd2422a27243d1fe51")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsDraw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsDraw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
