@@ -3,10 +3,28 @@ namespace WinFormsDraw
 
 public partial class Form1 : Form
 {
- private Bitmap _drawingBitmap;
+    // Canvas variables
+        private Bitmap _drawingBitmap;
         private Graphics _bitmapGraphics;
+
+    // Drawing state variables
         private Point _lastPoint;
         private bool _isDrawing = false;
+
+    // Tool variables
+        private Color _currentColor = Color.Black;
+        private int _currentThickness = 3;
+        private bool _isEraserMode = false;
+
+    // UI elements
+        private Panel _toolbar;
+        private Button _colorButton;
+        private Button _eraserButton;
+        private Button _clearButton;
+        private Button _saveButton;
+        private Button _loadButton;
+        private NumericUpDown _sizeSelector;
+        private Label _statusLabel;
 
     public Form1()
     {
