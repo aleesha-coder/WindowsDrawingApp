@@ -1,0 +1,14 @@
+C:\Users\Aleesha Praemchand\WinFormsDraw\bin\Debug\net10.0-windows\WinFormsDraw.exe
+C:\Users\Aleesha Praemchand\WinFormsDraw\bin\Debug\net10.0-windows\WinFormsDraw.deps.json
+C:\Users\Aleesha Praemchand\WinFormsDraw\bin\Debug\net10.0-windows\WinFormsDraw.runtimeconfig.json
+C:\Users\Aleesha Praemchand\WinFormsDraw\bin\Debug\net10.0-windows\WinFormsDraw.dll
+C:\Users\Aleesha Praemchand\WinFormsDraw\bin\Debug\net10.0-windows\WinFormsDraw.pdb
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.AssemblyInfoInputs.cache
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.AssemblyInfo.cs
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.csproj.CoreCompileInputs.cache
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.dll
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\refint\WinFormsDraw.dll
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.pdb
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\WinFormsDraw.genruntimeconfig.cache
+C:\Users\Aleesha Praemchand\WinFormsDraw\obj\Debug\net10.0-windows\ref\WinFormsDraw.dll
