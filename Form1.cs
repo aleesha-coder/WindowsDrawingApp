@@ -32,11 +32,13 @@ public partial class Form1 : Form
 
     public Form1()
     {
+
         //window setup
         this.Text = "Let's Draw!";
-            this.ClientSize = new Size(800, 600);
-            this.DoubleBuffered = true;
-            this.BackColor = Color.WhiteSmoke;
+        this.ClientSize = new Size(800, 600);
+        this.DoubleBuffered = true;
+        this.BackColor = Color.WhiteSmoke;
+        this.Icon = new Icon("art_icon.ico"); // added icon to window
 
         // Create toolbar
         BuildToolbar();

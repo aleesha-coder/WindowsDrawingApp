@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- App Icon -->
+    <ApplicationIcon>art_icon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
